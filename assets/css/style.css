@@ -2,3 +2,11 @@
 .centre{
     text-align: center;
 }
+
+li {
+    list-style-type: none;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
