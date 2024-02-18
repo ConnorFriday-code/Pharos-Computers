@@ -68,8 +68,33 @@ li {
     padding-top: 25%;
 }
 
-/*------------------------------------------------------------ Footer*/
+/*------------------------------------------------------------ Hero*/
 
-ul{
+/*------------------------------------------------------------ Welcome message*/
+
+.welcome-image{
+    background: url(../images/Greeting.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 200px;
+}
+
+.welcome .welcome-message, .welcome-image{
+    padding: 0px 5%;
+}
+
+.welcome ul li{
+    list-style-type:disc;
+}
+
+
+/*------------------------------------------------------------ Footer*/
+footer{
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+footer ul{
     padding: 0;
 }

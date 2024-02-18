@@ -3,6 +3,7 @@
 Pharos Computers is a website based on a real shop in my local town, with the goal to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the desgin subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text-bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
 
 The owner of the shop has given me permission to make a website based on his shop.
+![Shop owner giving approval](readme-images/Approval.jpg)
 
 <h2>User Experience/UX</h2>
 
