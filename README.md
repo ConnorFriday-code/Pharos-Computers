@@ -113,6 +113,13 @@ This led me to deciding to remove the title/header on mobile to remove redundenc
 <h2>Deployment</h2>
 
 <h2>Credits</h2>
+
+<h3>Centralise div</h3>
+
+Thank you to Matthias Weiler for the code to centralise the contact "call us" square on the hero image (index.html)
+
+[His code is found here](https://stackoverflow.com/questions/1776915/how-can-i-center-an-absolutely-positioned-element-in-a-div)
+
 <h3>Code</h3>
 <h3>Content</h3>
 <h3>Media</h3>
