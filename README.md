@@ -93,6 +93,22 @@ New lg nav (right side) on a screen with smaller than standard width:
 
 ![Nav lg new smaller width](readme-images/Phaross%20computers%20lg%20nav%20problem%203.PNG)
 
+<h4>Logo on small screens</h4>
+
+On the planned wireframe for small devices, I had planned for the: logo, header/title, and nav bar to all fit in the navigation bar. I was hesistant due to the size of the logo if it would end up being squished, however, and was hoping to see if reducing the size of the navigation menu would allow it to fit. The dropdown menu was not enough though and the logo does end up being squished, overlaying, and/or offscreen on small screens.
+
+![](readme-images/Phaross%20computers%20logo%20problem%20lg.PNG)
+
+![](readme-images/Phaross%20computers%20logo%20problem%20sm.PNG)
+
+This also raised another problem. With the logo and website header/title in front of me, I could see the redundency of the buisness name appearing in both the logo and in the header.
+
+This led me to deciding to remove the title/header on mobile to remove redundency and create room for the logo.
+
+![](readme-images/Phaross%20computers%20logo%20problem%20lg%202.PNG)
+
+![](readme-images/Phaross%20computers%20logo%20problem%20sm%202.PNG)
+
 <h2>Deployment</h2>
 
 <h2>Credits</h2>

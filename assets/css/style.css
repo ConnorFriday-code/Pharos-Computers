@@ -1,3 +1,7 @@
+/*------------------------------------------------------------ Color*/
+
+
+
 /*------------------------------------------------------------ General CSS rules*/
 .centre{
     text-align: center;
@@ -9,4 +13,15 @@ li {
 
 .dropdown-toggle::after {
     display:none;
+}
+
+/*------------------------------------------------------------ Navbar*/
+
+.logo{
+    background: url(../images/Pahros\ Computers\ Logo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 85px;
 }
