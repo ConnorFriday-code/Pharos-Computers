@@ -1,6 +1,24 @@
+body{
+    font-family: "inter", sans-serif;
+}
+
 /*------------------------------------------------------------ Color*/
 
+.bg-blue{
+    background-color: #0c1536;
+}
 
+.text-white{
+    color: #fafafa;
+}
+
+.text-yellow{
+    color: #FFD800;
+}
+
+a{
+    color: #FFD800;
+}
 
 /*------------------------------------------------------------ General CSS rules*/
 .centre{
@@ -15,6 +33,10 @@ li {
     display:none;
 }
 
+.uppercase{
+    text-transform: uppercase;
+}
+
 /*------------------------------------------------------------ Navbar*/
 
 .logo{
@@ -24,4 +46,24 @@ li {
     background-size: cover;
     height: auto;
     padding-bottom: 85px;
+}
+
+.menu{
+    border-left: 1px solid #fafafa;
+}
+
+.dropdown-item{
+    background-color: #0c1536;
+}
+
+.current{
+    color: #fafafa;
+}
+
+.title{
+    padding-top: 15px;
+}
+
+.mini-menu{
+    padding-top: 25%;
 }
