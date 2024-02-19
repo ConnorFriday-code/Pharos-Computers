@@ -44,6 +44,14 @@ li {
     text-transform: uppercase;
 }
 
+.margin-b{
+    margin-bottom: 20px;
+}
+
+.margin-t{
+    margin-top: 20px;
+}
+
 /*------------------------------------------------------------ Navbar*/
 
 .logo{
@@ -75,7 +83,11 @@ li {
     padding-top: 25%;
 }
 
-/*------------------------------------------------------------ Hero*/
+.menu-big{
+    padding-top: 5px;
+}
+
+/*------------------------------------------------------------ Hero image*/
 
 .hero-image{
     background: url(../images/Hero\ image\ front\ of\ store.jpg);
@@ -135,4 +147,8 @@ footer{
 
 footer ul{
     padding: 0;
+}
+
+footer .fa-facebook-official{
+    font-size: 72px;
 }
