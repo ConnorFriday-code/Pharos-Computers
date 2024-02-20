@@ -132,6 +132,28 @@ li {
     list-style-type:disc;
 }
 
+/*------------------------------------------------------------ Address*/
+
+.shop-image{
+    background: url(../images/Front\ of\ store.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 400px;
+}
+
+.address-and-times .address{
+    padding-left: 10%;
+    margin: auto 0;
+}
+
+.contact-phone{
+    background-color: #0c1536;
+    color: #fafafa;
+    width: 200px;
+    margin: 0 auto;
+}
+
 /*------------------------------------------------------------ Review*/
 
 .qoute{

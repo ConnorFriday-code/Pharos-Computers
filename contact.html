@@ -63,15 +63,15 @@
                 map
             </div>
         </div>
-        <div class="row no-gutters">
+        <div class="row no-gutters margin-b">
             <!-- Image of sign outside shop with street view -->
-            <div class="col-12 col-lg-6">
-                image of shop
+            <div class="col-12 col-md-6 shop-image">
             </div>
             <!-- Brief text of address with opening times -->
-            <div class="col-12 col-lg-6">
-                <div class="row no-gutters">
-                    <div class="col-6">
+            <div class="col-12 col-md-6">
+                <div class="row no-gutters address-and-times">
+                    <div class="col-6 address">
+                        <p>Our address:</p>
                         <p>
                             48 High Street<br>
                             Dover<br>
@@ -116,34 +116,38 @@
                     </div>
                 </div>
                 <div class="row no-gutters">
-                    <div class="col-12">
-                        <p class="centre contact-call">Or call us at:</p>
-                        <p class="centre"><a href="tel:01304212702">01304 212 702</a></p>
+                    <div class="col-12 margin-t">
+                        <div class="contact-phone">
+                            <p class="centre">Or call us at:</p>
+                            <p class="centre"><a href="tel:01304212702">01304 212 702</a></p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Form -->
         <div class="row no-gutters">
-            <form action="https://formdump.codeinstitute.net/" method="post" class="email-form">
-                <label for="name">Name:</label>
-                <br>
-                <input type="text" required id="name" name="user-name">
-                <br>
-                <label for="email">Email:</label>
-                <br>
-                <input type="email" required id="email" name="user-email">
-                <br>
-                <label for="phone-number">Phone Number (optional):</label>
-                <br>
-                <input type="phone-number" id="phone" name="user-phone-number">
-                <br>
-                <label for="question">Your question:</label>
-                <br>
-                <textarea type="text" required id="question" name="user-question"></textarea>
-                <br>
-                <input type="submit" value="Send Email" class="send-button">
-            </form>
+            <div class="col-12 form-section">
+                <form action="https://formdump.codeinstitute.net/" method="post" class="email-form">
+                    <label for="name">Name:</label>
+                    <br>
+                    <input type="text" required id="name" name="user-name">
+                    <br>
+                    <label for="email">Email:</label>
+                    <br>
+                    <input type="email" required id="email" name="user-email">
+                    <br>
+                    <label for="phone-number">Phone Number (optional):</label>
+                    <br>
+                    <input type="number" id="phone-number" name="user-phone-number">
+                    <br>
+                    <label for="question">Your question:</label>
+                    <br>
+                    <textarea type="text" required id="question" name="user-question"></textarea>
+                    <br>
+                    <input type="submit" value="Send Email" class="send-button">
+                </form>
+            </div>
         </div>
     </section>
     <!-- Footer legal section -->
