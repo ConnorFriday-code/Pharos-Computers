@@ -210,6 +210,7 @@ a.carousel-control-prev{
 .qoute{
     margin: 0 10px;
     background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
 }
 
 /*------------------------------------------------------------ Footer*/
