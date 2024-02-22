@@ -162,9 +162,16 @@ a.carousel-control-prev{
 
 /*------------------------------------------------------------ services available*/
 .service-list{
-    width: 90%;
+    width: 70%;
     min-width: 360px;
     margin: 0 auto;
+}
+
+.services-buttons .btn{
+    background-color: #0c1536;
+    color: #FFD800;
+    border-radius: 4px;
+    margin: 2px;
 }
 
 /*------------------------------------------------------------ Map*/
