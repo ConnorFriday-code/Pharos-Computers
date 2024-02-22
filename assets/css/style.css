@@ -160,9 +160,10 @@ a.carousel-control-prev{
     border-radius: 5px;
 }
 
-/*------------------------------------------------------------ Map*/
+/*------------------------------------------------------------ services available*/
 .service-list{
-    width: 80%;
+    width: 90%;
+    min-width: 360px;
     margin: 0 auto;
 }
 
