@@ -117,11 +117,18 @@ li {
 /*------------------------------------------------------------ Welcome message*/
 
 .welcome-image{
-    background: url(../images/Greeting.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    min-height: 200px;
+    max-height: 360px;
+    overflow: crop;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.welcome-image img{
+    max-width: 80%;
+    height: auto;
+    display: block;
 }
 
 .welcome .welcome-message, .welcome-image{
