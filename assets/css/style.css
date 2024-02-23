@@ -67,6 +67,12 @@ li {
     border-left: 1px solid #fafafa;
 }
 
+.menu ul{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
 .dropdown-item{
     background-color: #0c1536;
 }
@@ -217,8 +223,18 @@ a.carousel-control-prev{
 .contact-phone{
     background-color: #0c1536;
     color: #fafafa;
-    width: 200px;
+    width: 240px;
     margin: 0 auto;
+    padding: 10 0 2px;
+    border-radius: 4px;
+}
+
+.contact-phone a{
+    font-size: 24px;
+}
+
+.contact-phone p{
+    margin-bottom: 0;
 }
 
 /*------------------------------------------------------------ Form*/
@@ -255,4 +271,8 @@ footer ul{
 
 footer .fa-facebook-official{
     font-size: 72px;
+}
+
+.legal{
+    padding-bottom: 12px;
 }
