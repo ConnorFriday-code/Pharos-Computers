@@ -118,7 +118,7 @@ li {
 
 .welcome-image{
     max-height: 360px;
-    overflow: crop;
+    overflow: hidden;
     position: relative;
     display: flex;
     align-items: center;
@@ -193,11 +193,18 @@ a.carousel-control-prev{
 /*------------------------------------------------------------ Address*/
 
 .shop-image{
-    background: url(../images/Front\ of\ store.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    min-height: 400px;
+    max-height: 360px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.shop-image img{
+    max-width: 80%;
+    height: auto;
+    display: block;
 }
 
 .address-and-times .address{
