@@ -90,7 +90,7 @@ li {
 /*------------------------------------------------------------ Hero image*/
 
 .hero-image{
-    background: url(../images/Hero\ image\ front\ of\ store.jpg);
+    background: url(../images/Hero-image-front-of-store.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -100,14 +100,16 @@ li {
 .contact{
     background-color: #0c1536;
     color: #fafafa;
-    width: 200px;
+    width: 300px;
     bottom: 5%;
     margin: 0 auto;
     right: 0;
     left: 0;
     position: absolute;
-    padding: 6px;
+    padding: 12px;
     line-height: 15px;
+    font-size: 24px;
+    border-radius: 4px;
 }
 
 .contact a{
