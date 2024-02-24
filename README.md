@@ -79,7 +79,7 @@ Below the hero image will be a brief welcome and the shop owner's image. The pur
 
 At the bottom will be a review, to once again help create a sensation of trust from the website and the store's services.
 
-<h4>Service page</h4>
+<h4>Services page</h4>
 
 Once again a large hero-like image takes the front and centre to keep consistency across the pages. This hero image is actually a carousel who's purpose is to briefly and quickly explain the services the store offers.
 
