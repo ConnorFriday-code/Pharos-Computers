@@ -81,7 +81,19 @@ At the bottom will be a review, to once again help create a sensation of trust f
 
 <h4>Service page</h4>
 
+Once again a large hero-like image takes the front and centre to keep consistency across the pages. This hero image is actually a carousel who's purpose is to briefly and quickly explain the services the store offers.
+
+The second section below it is meant to expand on this and explain in greater detail what the shop does and the services it provides.
+
+The reviews are again there to create a feeling of trust with the user for the store.
+
 <h4>Contact page</h4>
+
+A large iframe embed of a google map mimics the hero image and carousel of the other two pages. The purpose of it is to simply show exactly where the store is on a map.
+
+Below it is another image of the store and table of open/closed times during the week, an address, and a phone number again. The image is the same one as the hero image but without a grey background darkening it, and the purpose of it is to present what the store looks like from the street for those looking for it. The address is physically typed out as a redundancy in case the user has any problems with the google map. The open and closed time during the week is to inform the user when they can call/enter the store.
+
+Finally the form is there for those who wish to email the store, in case they wish to message the store but don't have a phone and/or the store is closed at the time, without having to copy/paste an email address and leave the site to do so.
 
 <h3>Colour</h3>
 
