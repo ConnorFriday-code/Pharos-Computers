@@ -1,11 +1,11 @@
-<h1>Pharos Computers</h1>
+<h1 align="center">Pharos Computers</h1>
 
 Pharos Computers is a website based on a real shop in my local town, with the goal to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the desgin subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text-bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
 
 The owner of the shop has given me permission to make a website based on his shop.
 ![Shop owner giving approval](readme-images/Approval.jpg)
 
-<h2>User Experience/UX</h2>
+<h2 align="center">User Experience/UX</h2>
 
 <h3>User stories/goals</h3>
 
@@ -31,17 +31,53 @@ a. For quick loading times
 
 b. Contact information to be avaible to me swiftly
 
-<h2>Design</h2>
+<h2 align="center">Design</h2>
 
 <h3>Layout</h3>
 
 The layout will be simple to keep readers on track. Using clear content blocks and colours, I can direct a customers eyes to contact details and service information.
 
+<h3>Wireframes</h3>
+
+<h4>Phone wireframes</h4>
+
+![](readme-images/wireframes/Phone-index.png)
+
+![](readme-images/wireframes/Phone-service.png)
+
+![](readme-images/wireframes/Phone-contact.png)
+
+<h4>Tablet wireframes</h4>
+
+![](readme-images/wireframes/tablet-index.png)
+
+![](readme-images/wireframes/tablet-service.png)
+
+![](readme-images/wireframes/tablet-contact.png)
+
+<h4>Computer wireframe</h4>
+
+![](readme-images/wireframes/Computer-index.png)
+
+![](readme-images/wireframes/Computer-service.png)
+
+![](readme-images/wireframes/Computer-contact.png)
+
 <h4>Navigation</h4>
+
+The navgation will use bold colours and hard blocks to stand out on the page.
 
 <h4>Footer</h4>
 
+It will mirror the colours and blockiness of the navigation, yet will keep itself simple to not draw the user's attention away from the pages content.
+
 <h4>Landing page</h4>
+
+The landing page will have a large hero element to draw the user's attention to it, where they will find the store's phone number. This is for both returning users and new users. For returning users, they are likely already sold on the service and want to simply contact the store as quick as possible. For new users, this is to immediately put the information of where the shop's number is, so if they're sold already on the welcome directly below they can immediately use it without having to search for. Alternatively, new users might have been recommended by a friend, and as such will already be sold on the service and will want to be able call the store for further questions as quickly as possible.
+
+Below the hero image will be a brief welcome and the shop owner's image. The purpose of these is to quickly create a friendly, honest atmosphere to the user. The welcome message will also briefly state what the store does and where they offer their services to.
+
+At the bottom will be a review, to once again help create a sensation of trust from the website and the store's services.
 
 <h4>Service page</h4>
 
@@ -53,10 +89,6 @@ Using the logo of the shop (found here), the main colours shall be: white, dark 
 For contrast and easy readability, a white background with standard black/charcol coloured text is used. The yellow was a great choice for anything related to contact, due to the standard colour theory of yellow meaning "purchase" or "service".
 
 <h3>Content</h3>
-
-<h3>Wireframes</h3>
-
-![]()
 
 <h2>Technology used</h2>
 
