@@ -113,11 +113,15 @@ For contrast and easy readability, a white background with standard black/charco
 
 <h3>Content</h3>
 
+Most people using the website will not be tech literate, and seeing how they're looking for computer support for one reason or another, will likely not be using their computer and instead mobile devices. As such, content needs to be small and easy to navigate, with the language used to explain topics kept as simple as possible. Every piece of content should fill a role: explaining the store, explaining the services, and explaining how to contact the store.
+
 <h2 align="center">End result</h2>
 
-<h3>Pages</h3>
+<h4>Nav bar</h4>
 
-<h4>Phone</h4>
+![]()
+
+<h4>Index hero</h4>
 
 <h4>Tablet</h4>
 
