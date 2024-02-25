@@ -37,31 +37,40 @@ b. Contact information to be avaible to me swiftly
 
 The layout will be simple to keep readers on track. Using clear content blocks and colours, I can direct a customers eyes to contact details and service information.
 
+<h3>Features</h3>
+The website needs to be adaptive to different screen sizes.
+
+The website needs to be quick to navigate.
+
+It needs to have a functioning form section.
+
+The website needs to be as accessible as possible to those with disabilities.
+
 <h3>Wireframes</h3>
 
 <h4>Phone wireframes</h4>
 
-![](readme-images/wireframes/Phone-index.png)
+![Phone index wireframe](readme-images/wireframes/Phone-index.png)
 
-![](readme-images/wireframes/Phone-service.png)
+![Phone services wireframe](readme-images/wireframes/Phone-service.png)
 
-![](readme-images/wireframes/Phone-contact.png)
+![Phone contact wireframe](readme-images/wireframes/Phone-contact.png)
 
 <h4>Tablet wireframes</h4>
 
-![](readme-images/wireframes/tablet-index.png)
+![Tablet index wireframe](readme-images/wireframes/tablet-index.png)
 
-![](readme-images/wireframes/tablet-service.png)
+![Tablet services wireframe](readme-images/wireframes/tablet-service.png)
 
-![](readme-images/wireframes/tablet-contact.png)
+![Tablet contact wireframe](readme-images/wireframes/tablet-contact.png)
 
 <h4>Computer wireframe</h4>
 
-![](readme-images/wireframes/Computer-index.png)
+![Computer index wireframe](readme-images/wireframes/Computer-index.png)
 
-![](readme-images/wireframes/Computer-service.png)
+![Computer services wireframe](readme-images/wireframes/Computer-service.png)
 
-![](readme-images/wireframes/Computer-contact.png)
+![Computer contact wireframe](readme-images/wireframes/Computer-contact.png)
 
 <h4>Navigation</h4>
 
@@ -97,10 +106,26 @@ Finally the form is there for those who wish to email the store, in case they wi
 
 <h3>Colour</h3>
 
-Using the logo of the shop (found here), the main colours shall be: white, dark blue, green, and bright yellow.
-For contrast and easy readability, a white background with standard black/charcol coloured text is used. The yellow was a great choice for anything related to contact, due to the standard colour theory of yellow meaning "purchase" or "service".
+![Logo of store](readme-images/Pahros-Computers-Logo.jpg)
+
+Using the logo of the shop (posted above), the main colours shall be: white, dark blue, and bright yellow.
+For contrast and easy readability, a white background with standard black/charcol coloured text is used. The yellow was a great choice for anything related to links or contacting the store, due to the standard colour theory of yellow meaning "purchase" or "service". Dark blue and white have a great contrast, thus would work great for the header/footer to make it stand out from the page's content.
 
 <h3>Content</h3>
+
+<h2 align="center">End result</h2>
+
+<h3>Pages</h3>
+
+<h4>Phone</h4>
+
+<h4>Tablet</h4>
+
+<h4>Computer</h4>
+
+<h3>What do I like?</h3>
+
+<h3>Future development</h3>
 
 <h2>Technology used</h2>
 
