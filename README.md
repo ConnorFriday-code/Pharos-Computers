@@ -119,7 +119,8 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Nav bar</h4>
 
-![]()
+![Nav bar mobile]()
+![Nav bar computer]()
 
 <h4>Index hero</h4>
 
@@ -135,11 +136,23 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h3>Languages used</h3>
 
-Html
+Html5
 
-CSS
+CSS3
 
 <h3>Frameworks, Libraries & Programs Used</h3>
+
+[Bootstrap 4.2.1:](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+
+[jQuery:](https://jquery.com/)
+
+[FontAwesome:](https://fontawesome.com/v4/icons/)
+
+[Google Fonts:](https://fonts.google.com/)
+
+[Git](https://git-scm.com/)
+
+[Github](https://github.com/)
 
 <h2>Testing</h2>
 
