@@ -119,10 +119,29 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Nav bar</h4>
 
-![Nav bar mobile]()
-![Nav bar computer]()
+-Simple design that keeps itself bold via strong contrast and harsh lines
 
-<h4>Index hero</h4>
+-Not crowded
+
+-Links change colour to match the page the user is on, preventing themselves from getting lost
+
+-Stands out from the pages content 
+
+![Nav bar mobile](readme-images/end-result-images/NavBar-sm.PNG)
+![Nav bar computer](readme-images/end-result-images/NavBar-lg.PNG)
+
+<h4>Footer</h4>
+
+-Bold and minimal design, doesn't draw attention away from content yet cleary blocks out where it ends
+
+-Facebook logo is the largest and clearest part of the footer in case anyone does look into the footer for links to social media
+
+-Backup links to all pages if the nav bar stops working for whatever reason
+
+-Clearly states legal rights
+
+![Footer mobile](readme-images/end-result-images/Footer-sm.PNG)
+![Footer computer](readme-images/end-result-images/Footer-lg.PNG)
 
 <h4>Tablet</h4>
 
