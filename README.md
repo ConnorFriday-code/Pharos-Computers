@@ -117,6 +117,8 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h2 align="center">End result</h2>
 
+<h3>Current features</h3>
+
 <h4>Nav bar</h4>
 
 -Simple design that keeps itself bold via strong contrast and harsh lines
@@ -128,6 +130,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 -Stands out from the pages content 
 
 ![Nav bar mobile](readme-images/end-result-images/NavBar-sm.PNG)
+
 ![Nav bar computer](readme-images/end-result-images/NavBar-lg.PNG)
 
 <h4>Footer</h4>
@@ -141,13 +144,62 @@ Most people using the website will not be tech literate, and seeing how they're 
 -Clearly states legal rights
 
 ![Footer mobile](readme-images/end-result-images/Footer-sm.PNG)
+
 ![Footer computer](readme-images/end-result-images/Footer-lg.PNG)
 
-<h4>Tablet</h4>
+<h4>Index hero</h4>
 
-<h4>Computer</h4>
+![Hero mobile](readme-images/end-result-images/Hero-sm.PNG)
 
-<h3>What do I like?</h3>
+![Hero computer](readme-images/end-result-images/Hero-lg.PNG)
+
+<h4>Index welcome</h4>
+
+![Welcome mobile](readme-images/end-result-images/Welcome-sm.PNG)
+
+![Welcome computer](readme-images/end-result-images/Welcome-lg.PNG)
+
+<h4>Index review</h4>
+
+![Review mobile](readme-images/end-result-images/Index-review-sm.PNG)
+
+![Review computer](readme-images/end-result-images/Index-review-lg.PNG)
+
+<h4>Services carousel</h4>
+
+![Carousel mobile](readme-images/end-result-images/Carousel-sm.PNG)
+
+![Carousel computer](readme-images/end-result-images/Carousel-lg.PNG)
+
+<h4>Services info</h4>
+
+![Services mobile](readme-images/end-result-images/Services-sm.PNG)
+
+![Services computer](readme-images/end-result-images/Services-lg.PNG)
+
+<h4>Services reviews</h4>
+
+![Services reviews mobile](readme-images/end-result-images/Services-review-sm.PNG)
+
+![Services reviews computer](readme-images/end-result-images/Services-review-lg.PNG)
+
+<h4>Contact google map</h4>
+
+![Map mobile](readme-images/end-result-images/Map-sm.PNG)
+
+![Map computer](readme-images/end-result-images/Map-lg.PNG)
+
+<h4>Contact shop photo, address, and timetable</h4>
+
+![Address mobile](readme-images/end-result-images/Address-sm.PNG)
+
+![Address computer](readme-images/end-result-images/Address-lg.PNG)
+
+<h4>Contact form</h4>
+
+![Form mobile](readme-images/end-result-images/Form-sm.PNG)
+
+![Form computer](readme-images/end-result-images/Form-lg.PNG)
 
 <h3>Future development</h3>
 
