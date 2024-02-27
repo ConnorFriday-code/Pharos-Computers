@@ -149,11 +149,23 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Index hero</h4>
 
+-Image is large enough to grab users attention but the slightly darkened tone prevents it being too obnoxious
+
+-The contact/phone number having full hue draws the eye to it
+
+-The background image being of the store sign already plants a image of the store in the users mind, as well as listing services the store provides
+
 ![Hero mobile](readme-images/end-result-images/Hero-sm.PNG)
 
 ![Hero computer](readme-images/end-result-images/Hero-lg.PNG)
 
 <h4>Index welcome</h4>
+
+-Image of shop owner helps create a sense of trust, a face to put the shop/brand to
+
+-Welcome text gets straight to the point in explaining what the store is and where they can provide services.
+
+-Adaptive to different screen sizes
 
 ![Welcome mobile](readme-images/end-result-images/Welcome-sm.PNG)
 
@@ -161,11 +173,19 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Index review</h4>
 
+-Short and brief
+
+-Grey background and message icon makes it stand out from the rest of the content and mark it as a quote
+
 ![Review mobile](readme-images/end-result-images/Index-review-sm.PNG)
 
 ![Review computer](readme-images/end-result-images/Index-review-lg.PNG)
 
 <h4>Services carousel</h4>
+
+-Smooth transitions
+
+-Explanations are brief and to the point
 
 ![Carousel mobile](readme-images/end-result-images/Carousel-sm.PNG)
 
@@ -173,11 +193,19 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Services info</h4>
 
+-Buttons break the content down from being a large page of text down into easily comprehensible text
+
+-Buttons reduces the scrolling it would take to find content
+
 ![Services mobile](readme-images/end-result-images/Services-sm.PNG)
 
 ![Services computer](readme-images/end-result-images/Services-lg.PNG)
 
 <h4>Services reviews</h4>
+
+-Grey background and message icon makes it stand out from the rest of the content and mark it as a quote
+
+-Reviews adapt to different screen sizes
 
 ![Services reviews mobile](readme-images/end-result-images/Services-review-sm.PNG)
 
@@ -185,17 +213,35 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Contact google map</h4>
 
+-Large yet seamlessly fits into page
+
+-Access to other reviews
+
+-Keeps the consistency of having a large block as the first element on the page
+
 ![Map mobile](readme-images/end-result-images/Map-sm.PNG)
 
 ![Map computer](readme-images/end-result-images/Map-lg.PNG)
 
 <h4>Contact shop photo, address, and timetable</h4>
 
+-Repeating the image from the hero-image on index page help solidfies image of store in the user's mind
+
+-Address is clear and easy to read
+
+-Opening times cleary state when the store opens and closes on what day
+
+-Telephone is in bold to draw user's attention to it and break up the dullness of address section
+
 ![Address mobile](readme-images/end-result-images/Address-sm.PNG)
 
 ![Address computer](readme-images/end-result-images/Address-lg.PNG)
 
 <h4>Contact form</h4>
+
+-Works in sending a form to code institute
+
+-Name, email, and message are working required checks
 
 ![Form mobile](readme-images/end-result-images/Form-sm.PNG)
 
