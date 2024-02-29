@@ -36,10 +36,6 @@ li {
     list-style-type: none;
 }
 
-.dropdown-toggle::after {
-    display:none;
-}
-
 .uppercase{
     text-transform: uppercase;
 }
@@ -55,16 +51,20 @@ li {
 /*------------------------------------------------------------ Navbar*/
 
 .logo{
-    background: url(../images/Pahros\ Computers\ Logo.jpg);
+    background: url(../images/pahros-computers-logo.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: auto;
+    background-size:100% 100%;
+    max-width: 400px;
     padding-bottom: 85px;
 }
 
+.title{
+    padding-top: 15px;
+}
+
 .menu{
-    border-left: 1px solid #fafafa;
+    margin: auto  0;
 }
 
 .menu ul{
@@ -77,16 +77,24 @@ li {
     background-color: #0c1536;
 }
 
+.dropdown{
+    margin: auto;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+
+.dropdown-menu{
+    width: 100%;
+    text-align: center;
+}
+
 .current{
     color: #fafafa;
 }
-
-.title{
-    padding-top: 15px;
-}
-
 .mini-menu{
-    padding-top: 25%;
+    margin-top: 0;
 }
 
 .menu-big{
