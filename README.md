@@ -360,7 +360,7 @@ No errors when passing through the official W3C validator for any of the three p
 
 <h4>CSS</h4>
 
-No errors when passing through the official W3 jigsaw validator.
+No errors when passing through the official W3 jigsaw validator. The warnings are only from bootstrap/fontawesome.
 
 [CSS]()
 
