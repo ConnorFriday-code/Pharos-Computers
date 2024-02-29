@@ -151,7 +151,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Image is large enough to grab users attention but the slightly darkened tone prevents it being too obnoxious
 
--The contact/phone number having full hue draws the eye to it
+-The contact/phone number having full hue with strongly contrasting text colours draws the eye to it
 
 -The background image being of the store sign already plants a image of the store in the users mind, as well as listing services the store provides
 
@@ -249,6 +249,32 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h3>Future development</h3>
 
+Plans for future features/changes I would add if I were to have the time to do so in the future.
+
+Navigation bar:
+
+-Make the h1 title of Pharos Computers a link that links back to the landing/index page
+
+Index hero:
+
+-Change the phone number/contact link instead to a 'learn more' button that links to the services page
+
+Services carousel:
+
+-Have each carousel caption have a link/button that opens up its corresponding info in the services extended section
+
+Contact address:
+
+-Add padding to remove the slight crowding of the words
+
+-Add a border to help define its shape
+
+Contact form:
+
+-On large screen extend the width of the form
+
+
+
 <h2>Technology used</h2>
 
 <h3>Languages used</h3>
@@ -315,15 +341,30 @@ This led me to deciding to remove the title/header on mobile to remove redundenc
 
 <h2>Deployment</h2>
 
+
+
 <h2>Credits</h2>
 
-<h3>Centralise div</h3>
-
-Thank you to Matthias Weiler for the code to centralise the contact "call us" square on the hero image (index.html)
-
-[His code is found here](https://stackoverflow.com/questions/1776915/how-can-i-center-an-absolutely-positioned-element-in-a-div)
-
 <h3>Code</h3>
+
+[Bootstrap 4.2.1:](https://getbootstrap.com/docs/4.2/getting-started/introduction/): Bootstrap Library to make my website responsive to different screen sizes using the grid method, for dropdown menu on small screens, and the carousel in services.
+
+[W3Validator](https://validator.w3.org/): For vailidating the html of my three pages and offering corrections to be made.
+
+[W3Jigsaw](https://jigsaw.w3.org/css-validator/): For vailidating the html of my CSS.
+
 <h3>Content</h3>
+
+All content was written by me.
+
 <h3>Media</h3>
+
+Media images were taken by me
+
+Logo belongs to Pharos Computers and all rights belong to them
+
 <h3>Acknowledgements</h3>
+
+My mentor for providing me with helpful advise through out the project.
+
+Code institute for teaching me the knowledge of web development and providing a library of resources to return to for help
