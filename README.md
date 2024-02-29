@@ -1,5 +1,7 @@
 <h1 align="center">Pharos Computers</h1>
 
+[View the live project here.]()
+
 Pharos Computers is a website based on a real shop in my local town, with the goal to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the desgin subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text-bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
 
 The owner of the shop has given me permission to make a website based on his shop.
@@ -276,19 +278,31 @@ CSS3
 
 [Bootstrap 4.2.1:](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
 
+-Used for screen responsiveness across the website, as well as the dropdown menu for small screens and the carousel on the services page
+
 [jQuery:](https://jquery.com/)
+
+-Used by Bootstrap to make the interative elements of the navbar dropdown on small sceens and the carousel on the services page
 
 [FontAwesome:](https://fontawesome.com/v4/icons/)
 
+-Used for the facebook icon in the footer and icon in the navbar for small screens.
+
 [Google Fonts:](https://fonts.google.com/)
+
+-Used for the font "inter" across the website
 
 [Git](https://git-scm.com/)
 
+-Used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
 [Github](https://github.com/)
+
+-Used to store the project's code
 
 <h2>Testing</h2>
 
-<h3>During development</h3>
+<h3>During development/bug fixing</h3>
 
 <h4>Nav section on large screens</h4>
 
@@ -316,21 +330,48 @@ New lg nav (right side) on a screen with smaller than standard width:
 
 On the planned wireframe for small devices, I had planned for the: logo, header/title, and nav bar to all fit in the navigation bar. I was hesistant due to the size of the logo if it would end up being squished, however, and was hoping to see if reducing the size of the navigation menu would allow it to fit. The dropdown menu was not enough though and the logo does end up being squished, overlaying, and/or offscreen on small screens.
 
-![](readme-images/Phaross%20computers%20logo%20problem%20lg.PNG)
+![Nav lg with no logo squish](readme-images/Phaross%20computers%20logo%20problem%20lg.PNG)
 
-![](readme-images/Phaross%20computers%20logo%20problem%20sm.PNG)
+![Nav sm with logo squish](readme-images/Phaross%20computers%20logo%20problem%20sm.PNG)
 
 This also raised another problem. With the logo and website header/title in front of me, I could see the redundency of the buisness name appearing in both the logo and in the header.
 
 This led me to deciding to remove the title/header on mobile to remove redundency and create room for the logo.
 
-![](readme-images/Phaross%20computers%20logo%20problem%20lg%202.PNG)
+![Nav lg with h1 title](readme-images/Phaross%20computers%20logo%20problem%20lg%202.PNG)
 
-![](readme-images/Phaross%20computers%20logo%20problem%20sm%202.PNG)
+![Nav sm with h1 removed](readme-images/Phaross%20computers%20logo%20problem%20sm%202.PNG)
 
 <h2>Deployment</h2>
 
+<h3>Validator testing</h3>
 
+<h4>HTML</h4>
+No errors when passing through the official W3C validator for any of the three pages.
+
+[Index]()
+
+[Services]()
+
+[Contact]()
+
+<h4>CSS</h4>
+
+No errors when passing through the official W3 jigsaw validator.
+
+[CSS]()
+
+<h3>Git</h3>
+
+The site was deployed to GitHub pages through the steps as followed:
+
+<ol>
+<li>In the GitHub repository is the settings tab</li>
+<li>In the new page there will be a menu on the left with one option being 'Pages'</li>
+<li>Within this I selected branch to be 'Main', and refreshing the page a minute later it had updated with a ribbon display to indicate success</li>
+</ol>
+
+Live link can be found here: [Live project]()
 
 <h2>Credits</h2>
 
