@@ -2,9 +2,9 @@
 
 [View the live project here.]()
 
-Pharos Computers is a website based on a real shop in my local town, with the goal to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the desgin subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text-bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
+Pharos Computers is a website based on a real shop in my local town, intending to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the design subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
 
-The owner of the shop has given me permission to make a website based on his shop.
+The owner of the shop has permitted me to make a website based on his shop.
 
 ![Shop owner giving approval](readme-images/Approval.jpg)
 
@@ -16,9 +16,9 @@ The owner of the shop has given me permission to make a website based on his sho
 
 a. To quickly learn the purpose/service of the website/shop
 
-b. To have the services clearly and simply explained, and that owner of the shop values my time.
+b. To have the services clearly and simply explained, and that the owner of the shop values my time.
 
-c. To be assured that services provided is both good quality and good value
+c. To be assured that services provided are both good quality and good value
 
 d. To be quickly directed to contact details if they're sold on the service
 
@@ -32,13 +32,13 @@ b. For other services to be quickly readable if I need them
 
 a. For quick loading times
 
-b. Contact information to be avaible to me swiftly
+b. Contact information to be available to me swiftly
 
 <h2 align="center">Design</h2>
 
 <h3>Layout</h3>
 
-The layout will be simple to keep readers on track. Using clear content blocks and colours, I can direct a customers eyes to contact details and service information.
+The layout will be simple to keep readers on track. Using clear content blocks and colours, I can direct a customer's eyes to contact details and service information.
 
 <h3>Features</h3>
 The website needs to be adaptive to different screen sizes.
@@ -77,23 +77,23 @@ The website needs to be as accessible as possible to those with disabilities.
 
 <h4>Navigation</h4>
 
-The navgation will use bold colours and hard blocks to stand out on the page.
+The navigation will use bold colours and hard blocks to stand out on the page.
 
 <h4>Footer</h4>
 
-It will mirror the colours and blockiness of the navigation, yet will keep itself simple to not draw the user's attention away from the pages content.
+It will mirror the colours and blockiness of the navigation, yet will keep itself simple to avoid drawing the user's attention away from the page's content.
 
 <h4>Landing page</h4>
 
-The landing page will have a large hero element to draw the user's attention to it, where they will find the store's phone number. This is for both returning users and new users. For returning users, they are likely already sold on the service and want to simply contact the store as quick as possible. For new users, this is to immediately put the information of where the shop's number is, so if they're sold already on the welcome directly below they can immediately use it without having to search for. Alternatively, new users might have been recommended by a friend, and as such will already be sold on the service and will want to be able call the store for further questions as quickly as possible.
+The landing page will have a large hero element to draw the user's attention to it, where they will find the store's phone number. This is for both returning users and new users. Returning users are likely already sold on the service and want to simply contact the store as quickly as possible. For new users, this is to immediately put the information of where the shop's number is, so if they're convinced already on the welcome directly below they can immediately use it without having to search for it. Alternatively, new users might have been recommended by a friend, and as such will already be sold on the service and will want to be able to call the store for further questions as quickly as possible.
 
-Below the hero image will be a brief welcome and the shop owner's image. The purpose of these is to quickly create a friendly, honest atmosphere to the user. The welcome message will also briefly state what the store does and where they offer their services to.
+Below the hero image will be a brief welcome and the shop owner's image. The purpose of these is to quickly create a friendly, honest atmosphere for the user. The welcome message will also briefly state what the store does and where it offers its services.
 
 At the bottom will be a review, to once again help create a sensation of trust from the website and the store's services.
 
 <h4>Services page</h4>
 
-Once again a large hero-like image takes the front and centre to keep consistency across the pages. This hero image is actually a carousel who's purpose is to briefly and quickly explain the services the store offers.
+Once again a large hero-like image takes the front and centre to keep consistency across the pages. This hero image is a carousel whose purpose is to briefly and quickly explain the services the store offers.
 
 The second section below it is meant to expand on this and explain in greater detail what the shop does and the services it provides.
 
@@ -101,18 +101,19 @@ The reviews are again there to create a feeling of trust with the user for the s
 
 <h4>Contact page</h4>
 
-A large iframe embed of a google map mimics the hero image and carousel of the other two pages. The purpose of it is to simply show exactly where the store is on a map.
+A large iframe embed of a Google Map mimics the hero image and carousel of the other two pages. The purpose of it is to simply show exactly where the store is on a map.
 
-Below it is another image of the store and table of open/closed times during the week, an address, and a phone number again. The image is the same one as the hero image but without a grey background darkening it, and the purpose of it is to present what the store looks like from the street for those looking for it. The address is physically typed out as a redundancy in case the user has any problems with the google map. The open and closed time during the week is to inform the user when they can call/enter the store.
+Below it is another image of the store and a table of open/closed times during the week, an address, and a phone number again. The image is the same one as the hero image but without a grey background darkening it, and the purpose of it is to present what the store looks like from the street for those looking for it. The address is physically typed out as a redundancy in case the user has any problems with Google Maps. The open and closed times during the week are to inform the user when they can call/enter the store.
 
-Finally the form is there for those who wish to email the store, in case they wish to message the store but don't have a phone and/or the store is closed at the time, without having to copy/paste an email address and leave the site to do so.
+Finally, the form is there for those who wish to email the store, in case they wish to message the store but don't have a phone and/or the store is closed at the time, without having to copy/paste an email address and leave the site to do so.
 
 <h3>Colour</h3>
 
 ![Logo of store](readme-images/Pahros-Computers-Logo.jpg)
 
-Using the logo of the shop (posted above), the main colours shall be: white, dark blue, and bright yellow.
-For contrast and easy readability, a white background with standard black/charcol coloured text is used. The yellow was a great choice for anything related to links or contacting the store, due to the standard colour theory of yellow meaning "purchase" or "service". Dark blue and white have a great contrast, thus would work great for the header/footer to make it stand out from the page's content.
+Using the logo of the shop (posted above), the main colours shall be white, dark blue, and bright yellow.
+
+For contrast and easy readability, a white background with standard black text is used. The yellow was a great choice for anything related to links or contacting the store, due to the colour theory of yellow representing "purchase" or "service". Dark blue and white have a great contrast, thus would work great for the header/footer to make it stand out from the page's content.
 
 <h3>Content</h3>
 
@@ -130,7 +131,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Links change colour to match the page the user is on, preventing themselves from getting lost
 
--Stands out from the pages content 
+-Stands out from the page content 
 
 ![Nav bar mobile](readme-images/end-result-images/NavBar-sm.PNG)
 
@@ -138,9 +139,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Footer</h4>
 
--Bold and minimal design, doesn't draw attention away from content yet cleary blocks out where it ends
+-Bold and minimal design doesn't draw attention away from content yet clearly blocks out where it ends
 
--Facebook logo is the largest and clearest part of the footer in case anyone does look into the footer for links to social media
+-The Facebook logo is the largest and clearest part of the footer in case anyone does look into the footer for links to social media
 
 -Backup links to all pages if the nav bar stops working for whatever reason
 
@@ -152,11 +153,11 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Index hero</h4>
 
--Image is large enough to grab users attention but the slightly darkened tone prevents it being too obnoxious
+-The image is large enough to grab users attention but the slightly darkened tone prevents it being too obnoxious
 
--The contact/phone number having full hue with strongly contrasting text colours draws the eye to it
+-The contact/phone number having a full hue with strongly contrasting text colours draws the eye to it
 
--The background image being of the store sign already plants a image of the store in the users mind, as well as listing services the store provides
+-The background image of the store sign already plants an image of the store in the user's mind, as well as listing services the store provides
 
 ![Hero mobile](readme-images/end-result-images/Hero-sm.PNG)
 
@@ -164,7 +165,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Index welcome</h4>
 
--Image of shop owner helps create a sense of trust, a face to put the shop/brand to
+-The image of the shop owner helps create a sense of trust, a face to put the shop/brand to
 
 -Welcome text gets straight to the point in explaining what the store is and where they can provide services.
 
@@ -178,7 +179,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Short and brief
 
--Grey background and message icon makes it stand out from the rest of the content and mark it as a quote
+-Grey background and message icon make it stand out from the rest of the content and mark it as a quote
 
 ![Review mobile](readme-images/end-result-images/Index-review-sm.PNG)
 
@@ -196,9 +197,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Services info</h4>
 
--Buttons break the content down from being a large page of text down into easily comprehensible text
+-Buttons break the content down from being a large page of text into easily comprehensible text
 
--Buttons reduces the scrolling it would take to find content
+-Buttons reduce the scrolling it would take to find content
 
 ![Services mobile](readme-images/end-result-images/Services-sm.PNG)
 
@@ -206,7 +207,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Services reviews</h4>
 
--Grey background and message icon makes it stand out from the rest of the content and mark it as a quote
+-Grey background and message icon make it stand out from the rest of the content and mark it as a quote
 
 -Reviews adapt to different screen sizes
 
@@ -216,7 +217,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Contact google map</h4>
 
--Large yet seamlessly fits into page
+-Large yet seamlessly fits into the page
 
 -Access to other reviews
 
@@ -228,13 +229,13 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Contact shop photo, address, and timetable</h4>
 
--Repeating the image from the hero-image on index page help solidfies image of store in the user's mind
+-Reusing the hero image from the index page helps solidify the image of the store in the user's mind
 
 -Address is clear and easy to read
 
--Opening times cleary state when the store opens and closes on what day
+-Opening times clearly state when the store opens and closes on what day
 
--Telephone is in bold to draw user's attention to it and break up the dullness of address section
+-Telephone is in bold to draw the user's attention to it and break up the dullness of the address section
 
 ![Address mobile](readme-images/end-result-images/Address-sm.PNG)
 
@@ -242,7 +243,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 <h4>Contact form</h4>
 
--Works in sending a form to code institute
+-Works on sending a form to the Code Institute dump form
 
 -Name, email, and message are working required checks
 
@@ -284,11 +285,11 @@ CSS3
 
 [jQuery:](https://jquery.com/)
 
--Used by Bootstrap to make the interative elements of the navbar dropdown on small sceens and the carousel on the services page
+-Used by Bootstrap to make the interactive elements of the navbar dropdown on small screens and the carousel on the services page
 
 [FontAwesome:](https://fontawesome.com/v4/icons/)
 
--Used for the facebook icon in the footer and icon in the navbar for small screens.
+-Used for the Facebook icon in the footer and icon in the navbar for small screens.
 
 [Google Fonts:](https://fonts.google.com/)
 
@@ -296,7 +297,7 @@ CSS3
 
 [Git](https://git-scm.com/)
 
--Used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+-Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 
 [Github](https://github.com/)
 
@@ -308,9 +309,9 @@ CSS3
 
 <h4>Nav section on large screens</h4>
 
-On the planned wireframe I had the navigation on large screens to be three links split horizontally, however, I encounted a problem with this. The col-2 spacing did not leave a lot of room. On standard wide screen this was not a problem, but when the screen width shrunk down, the words would end up overlaying one another before it would switch to the dropdown button for small screens. See images below.
+On the planned wireframe I had the navigation on large screens to be three links split horizontally, however, I encountered a problem with this. The col-2 spacing did not leave a lot of room. On a standard widescreen, this was not a problem, but when the screen width shrunk down the words would end up overlaying one another before it would switch to the dropdown button for small screens. See the images below.
 
-Old lg nav (right side) on normal full width screen:
+Old lg nav (right side) on normal full-width screen:
 
 ![Nav lg old fullscreen](readme-images/Phaross%20computers%20lg%20nav%20problem%201.PNG)
 
@@ -318,27 +319,27 @@ Old lg nav (right side) on a screen with a smaller than standard width:
 
 ![Nav lg old smaller width](readme-images/Phaross%20computers%20lg%20nav%20problem%202.PNG)
 
-I, therefore, decided to keep accessability across different screen sizes to layer the three navigation links vertically instead of horizontally.
+I, therefore, decided to keep accessibility across different screen sizes to layer the three navigation links vertically instead of horizontally.
 
-New lg nav (right side) on on normal full width screen:
+New lg nav (right side) on normal full-width screen:
 
 ![Nav lg new fullscreen](readme-images/Phaross%20computers%20lg%20nav%20problem%204.PNG)
 
-New lg nav (right side) on a screen with smaller than standard width:
+New lg nav (right side) on a screen with a smaller than standard width:
 
 ![Nav lg new smaller width](readme-images/Phaross%20computers%20lg%20nav%20problem%203.PNG)
 
 <h4>Logo on small screens</h4>
 
-On the planned wireframe for small devices, I had planned for the: logo, header/title, and nav bar to all fit in the navigation bar. I was hesistant due to the size of the logo if it would end up being squished, however, and was hoping to see if reducing the size of the navigation menu would allow it to fit. The dropdown menu was not enough though and the logo does end up being squished, overlaying, and/or offscreen on small screens.
+On the planned wireframe for small devices, I had planned for the: logo, header/title, and nav bar to all fit in the navigation bar. I was hesitant due to the size of the logo if it would end up being squished, however, and was hoping to see if reducing the size of the navigation menu would allow it to fit. The dropdown menu was not enough though and the logo does end up being squished and/or offscreen on small screens.
 
 ![Nav lg with no logo squish](readme-images/Phaross%20computers%20logo%20problem%20lg.PNG)
 
 ![Nav sm with logo squish](readme-images/Phaross%20computers%20logo%20problem%20sm.PNG)
 
-This also raised another problem. With the logo and website header/title in front of me, I could see the redundency of the buisness name appearing in both the logo and in the header.
+This also raised another problem. With the logo and website header/title in front of me, I could see the redundancy of the business name appearing in both the logo and the header.
 
-This led me to deciding to remove the title/header on mobile to remove redundency and create room for the logo.
+This led to me deciding to remove the title/header on mobile to remove redundancy and create room for the logo.
 
 ![Nav lg with h1 title](readme-images/Phaross%20computers%20logo%20problem%20lg%202.PNG)
 
@@ -365,15 +366,15 @@ No errors when passing through the official W3 jigsaw validator.
 
 <h3>Git</h3>
 
-The site was deployed to GitHub pages through the steps as followed:
+The site was deployed to GitHub pages through the steps as follows:
 
 <ol>
 <li>In the GitHub repository is the settings tab</li>
 <li>In the new page there will be a menu on the left with one option being 'Pages'</li>
-<li>Within this I selected branch to be 'Main', and refreshing the page a minute later it had updated with a ribbon display to indicate success</li>
+<li>Within this I selected the branch to be 'Main', and refreshing the page a minute later it had updated with a ribbon display to indicate success</li>
 </ol>
 
-Live link can be found here: [Live project]()
+The live link can be found here: [Live project]()
 
 <h2>Credits</h2>
 
@@ -381,9 +382,9 @@ Live link can be found here: [Live project]()
 
 [Bootstrap 4.2.1:](https://getbootstrap.com/docs/4.2/getting-started/introduction/): Bootstrap Library to make my website responsive to different screen sizes using the grid method, for dropdown menu on small screens, and the carousel in services.
 
-[W3Validator](https://validator.w3.org/): For vailidating the html of my three pages and offering corrections to be made.
+[W3Validator](https://validator.w3.org/): For validating the HTML of my three pages and offering corrections to be made.
 
-[W3Jigsaw](https://jigsaw.w3.org/css-validator/): For vailidating the html of my CSS.
+[W3Jigsaw](https://jigsaw.w3.org/css-validator/): For vailidating the HTML of my CSS.
 
 <h3>Content</h3>
 
@@ -393,10 +394,10 @@ All content was written by me.
 
 Media images were taken by me
 
-Logo belongs to Pharos Computers and all rights belong to them
+The logo belongs to Pharos Computers and all rights belong to them
 
 <h3>Acknowledgements</h3>
 
-My mentor for providing me with helpful advise through out the project.
+My mentor for providing me with helpful advice throughout the project.
 
-Code institute for teaching me the knowledge of web development and providing a library of resources to return to for help
+Code Institute for teaching me the knowledge of web development and providing a library of resources to return to for help
