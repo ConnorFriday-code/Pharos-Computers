@@ -1,6 +1,6 @@
 <h1 align="center">Pharos Computers</h1>
 
-[View the live project here.]()
+[View the live project here.](https://connorfriday-code.github.io/Pharos-Computers/)
 
 Pharos Computers is a website based on a real shop in my local town, intending to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the design subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
 
@@ -352,11 +352,11 @@ This led to me deciding to remove the title/header on mobile to remove redundanc
 <h4>HTML</h4>
 No errors when passing through the official W3C validator for any of the three pages.
 
-[Index]()
+[Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fconnorfriday-code.github.io%2FPharos-Computers%2Findex.html)
 
-[Services]()
+[Services](https://validator.w3.org/nu/?doc=https%3A%2F%2Fconnorfriday-code.github.io%2FPharos-Computers%2Fservices.html)
 
-[Contact]()
+[Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fconnorfriday-code.github.io%2FPharos-Computers%2Fcontact.html)
 
 <h4>CSS</h4>
 
@@ -374,7 +374,7 @@ The site was deployed to GitHub pages through the steps as follows:
 <li>Within this I selected the branch to be 'Main', and refreshing the page a minute later it had updated with a ribbon display to indicate success</li>
 </ol>
 
-The live link can be found here: [Live project]()
+The live link can be found here: [Live project](https://connorfriday-code.github.io/Pharos-Computers/)
 
 <h2>Credits</h2>
 
