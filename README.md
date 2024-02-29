@@ -3,6 +3,7 @@
 Pharos Computers is a website based on a real shop in my local town, with the goal to spread information about its services and direct customers towards the shop. It is designed to be readable on all types of media, with the desgin subtly changing to match the different widths of different devices. The content will be fairly simple and describe problems in broad terms. Not only is this to keep text-bloat as small as possible to increase readability, but if a customer is looking for technical help for their computer, then chances are technical terms will only confuse and deter them.
 
 The owner of the shop has given me permission to make a website based on his shop.
+
 ![Shop owner giving approval](readme-images/Approval.jpg)
 
 <h2 align="center">User Experience/UX</h2>
@@ -247,7 +248,7 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 ![Form computer](readme-images/end-result-images/Form-lg.PNG)
 
-<h3>Future development</h3>
+<h3>Future development/Future features</h3>
 
 Plans for future features/changes I would add if I were to have the time to do so in the future.
 
@@ -262,18 +263,6 @@ Index hero:
 Services carousel:
 
 -Have each carousel caption have a link/button that opens up its corresponding info in the services extended section
-
-Contact address:
-
--Add padding to remove the slight crowding of the words
-
--Add a border to help define its shape
-
-Contact form:
-
--On large screen extend the width of the form
-
-
 
 <h2>Technology used</h2>
 

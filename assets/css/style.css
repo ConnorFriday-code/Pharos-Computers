@@ -228,6 +228,16 @@ a.carousel-control-prev{
     margin: auto 0;
 }
 
+.timetable th, td{
+    padding: 5px;
+    border-bottom: 1px rgba(125, 125, 125, 1) solid;
+}
+
+table{
+    border: 2px rgba(125, 125, 125, 1) solid;
+    margin: 5px;
+}
+
 .contact-phone{
     background-color: #0c1536;
     color: #fafafa;
@@ -248,17 +258,27 @@ a.carousel-control-prev{
 /*------------------------------------------------------------ Form*/
 
 .form-section{
-    width: 300px;
+    width: 80%;
     margin: 0 auto;
+    text-align: center;
+}
+
+.form-section .input-bar{
+    width: 300px;
 }
 
 .form-section input, textarea{
-    width: 100%;
+    width: 50%;
+    min-width: 300px;
     margin: 10px;
     border: solid 2px rgba(0, 0, 0, 0.5);
     border-radius: 4px;
 }
 
+
+.form-section .send-button{
+    width: 200px;
+}
 /*------------------------------------------------------------ Review*/
 
 .qoute{
