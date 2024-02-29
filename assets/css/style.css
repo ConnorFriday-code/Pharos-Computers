@@ -1,306 +1,306 @@
-body{
-    font-family: "inter", sans-serif;
+body {
+	font-family: "inter", sans-serif;
 }
 
 /*------------------------------------------------------------ Color*/
 
-.bg-blue{
-    background-color: #0c1536;
+.bg-blue {
+	background-color: #0c1536;
 }
 
-.bg-grey{
-    background-color: rgba(0, 0, 0, 0.5);
-    width: 100%;
-    height: 100%;
+.bg-grey {
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 100%;
+	height: 100%;
 }
 
-.text-white{
-    color: #fafafa;
-    margin-bottom: 0;
+.text-white {
+	color: #fafafa;
+	margin-bottom: 0;
 }
 
-.text-yellow{
-    color: #FFD800;
+.text-yellow {
+	color: #FFD800;
 }
 
-a{
-    color: #FFD800;
+a {
+	color: #FFD800;
 }
 
 /*------------------------------------------------------------ General CSS rules*/
-.centre{
-    text-align: center;
+.centre {
+	text-align: center;
 }
 
 li {
-    list-style-type: none;
+	list-style-type: none;
 }
 
-.uppercase{
-    text-transform: uppercase;
+.uppercase {
+	text-transform: uppercase;
 }
 
-.margin-b{
-    margin-bottom: 20px;
+.margin-b {
+	margin-bottom: 20px;
 }
 
-.margin-t{
-    margin-top: 20px;
+.margin-t {
+	margin-top: 20px;
 }
 
 /*------------------------------------------------------------ Navbar*/
 
-.logo{
-    background: url(../images/pahros-computers-logo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:100% 100%;
-    max-width: 400px;
-    padding-bottom: 85px;
+.logo {
+	background: url(../images/pahros-computers-logo.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	max-width: 400px;
+	padding-bottom: 85px;
 }
 
-.title{
-    padding-top: 15px;
+.title {
+	padding-top: 15px;
 }
 
-.menu{
-    margin: auto  0;
+.menu {
+	margin: auto  0;
 }
 
-.menu ul{
-    text-decoration: none;
-    padding: 0;
-    margin: 0;
+.menu ul {
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
 }
 
-.dropdown-item{
-    background-color: #0c1536;
+.dropdown-item {
+	background-color: #0c1536;
 }
 
-.dropdown{
-    margin: auto;
+.dropdown {
+	margin: auto;
 }
 
 .dropdown-toggle::after {
-    display:none;
+	display: none;
 }
 
-.dropdown-menu{
-    width: 100%;
-    text-align: center;
+.dropdown-menu {
+	width: 100%;
+	text-align: center;
 }
 
-.current{
-    color: #fafafa;
-}
-.mini-menu{
-    margin-top: 0;
+.current {
+	color: #fafafa;
 }
 
-.menu-big{
-    padding-top: 5px;
+.mini-menu {
+	margin-top: 0;
+}
+
+.menu-big {
+	padding-top: 5px;
 }
 
 /*------------------------------------------------------------ Hero image*/
 
-.hero-image{
-    background: url(../images/Hero-image-front-of-store.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    min-height: 600px;
+.hero-image {
+	background: url(../images/Hero-image-front-of-store.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 600px;
 }
 
-.contact{
-    background-color: #0c1536;
-    color: #fafafa;
-    width: 300px;
-    bottom: 5%;
-    margin: 0 auto;
-    right: 0;
-    left: 0;
-    position: absolute;
-    padding: 12px;
-    line-height: 15px;
-    font-size: 24px;
-    border-radius: 4px;
+.contact {
+	background-color: #0c1536;
+	color: #fafafa;
+	width: 300px;
+	bottom: 5%;
+	margin: 0 auto;
+	right: 0;
+	left: 0;
+	position: absolute;
+	padding: 12px;
+	line-height: 15px;
+	font-size: 24px;
+	border-radius: 4px;
 }
 
-.contact a{
-    color: #FFD800;
+.contact a {
+	color: #FFD800;
 }
 
 /*------------------------------------------------------------ Welcome message*/
 
-.welcome-image{
-    max-height: 360px;
-    overflow: hidden;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.welcome-image {
+	max-height: 360px;
+	overflow: hidden;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
-.welcome-image img{
-    max-width: 80%;
-    height: auto;
-    display: block;
+.welcome-image img {
+	max-width: 80%;
+	height: auto;
+	display: block;
 }
 
-.welcome .welcome-message, .welcome-image{
-    padding: 0px 5%;
+.welcome .welcome-message, .welcome-image {
+	padding: 0px 5%;
 }
 
-.welcome ul li{
-    list-style-type:disc;
+.welcome ul li {
+	list-style-type: disc;
 }
 
 /*------------------------------------------------------------ Carousel*/
 
-.carousel{
-    background-color: rgba(0, 0, 0, 0.5);
+.carousel {
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
-.carousel img{
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.carousel img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.carousel-caption{
-    background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 10px;
+.carousel-caption {
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 10px;
 }
 
 a.carousel-control-next,
-a.carousel-control-prev{
-    background-color: rgba(0, 0, 0, 0.5);
-    width: 50px;
-    height: 50px;
-    margin: auto 0px;
-    border-radius: 5px;
+a.carousel-control-prev {
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 50px;
+	height: 50px;
+	margin: auto 0px;
+	border-radius: 5px;
 }
 
 /*------------------------------------------------------------ services available*/
-.service-list{
-    width: 70%;
-    min-width: 360px;
-    margin: 0 auto;
+.service-list {
+	width: 70%;
+	min-width: 360px;
+	margin: 0 auto;
 }
 
-.services-buttons .btn{
-    background-color: #0c1536;
-    color: #FFD800;
-    border-radius: 4px;
-    margin: 2px;
+.services-buttons .btn {
+	background-color: #0c1536;
+	color: #FFD800;
+	border-radius: 4px;
+	margin: 2px;
 }
 
 /*------------------------------------------------------------ Map*/
 
-.map{
-    width: 96%;
-    min-height: 400px;
-    margin: 0 2%;
-    border: solid 2px rgba(0, 0, 0, 0.5);
+.map {
+	width: 96%;
+	min-height: 400px;
+	margin: 0 2%;
+	border: solid 2px rgba(0, 0, 0, 0.5);
 }
 
 /*------------------------------------------------------------ Address*/
 
-.shop-image{
-    max-height: 360px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
+.shop-image {
+	max-height: 360px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
 }
 
-.shop-image img{
-    max-width: 80%;
-    height: auto;
-    display: block;
+.shop-image img {
+	max-width: 80%;
+	height: auto;
+	display: block;
 }
 
-.address-and-times .address{
-    padding-left: 10%;
-    margin: auto 0;
+.address-and-times .address {
+	padding-left: 10%;
+	margin: auto 0;
 }
 
-.timetable th, td{
-    padding: 5px;
-    border-bottom: 1px rgba(125, 125, 125, 1) solid;
+.timetable th, td {
+	padding: 5px;
+	border-bottom: 1px rgba(125, 125, 125, 1) solid;
 }
 
-table{
-    border: 2px rgba(125, 125, 125, 1) solid;
-    margin: 5px;
+table {
+	border: 2px rgba(125, 125, 125, 1) solid;
+	margin: 5px;
 }
 
-.contact-phone{
-    background-color: #0c1536;
-    color: #fafafa;
-    width: 240px;
-    margin: 0 auto;
-    padding: 10 0 2px;
-    border-radius: 4px;
+.contact-phone {
+	background-color: #0c1536;
+	color: #fafafa;
+	width: 240px;
+	margin: 0 auto;
+	padding: 10 0 2px;
+	border-radius: 4px;
 }
 
-.contact-phone a{
-    font-size: 24px;
+.contact-phone a {
+	font-size: 24px;
 }
 
-.contact-phone p{
-    margin-bottom: 0;
+.contact-phone p {
+	margin-bottom: 0;
 }
 
 /*------------------------------------------------------------ Form*/
 
-.form-section{
-    width: 80%;
-    margin: 0 auto;
-    text-align: center;
+.form-section {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
 }
 
-.form-section .input-bar{
-    width: 300px;
+.form-section .input-bar {
+	width: 300px;
 }
 
-.form-section input, textarea{
-    width: 50%;
-    min-width: 300px;
-    margin: 10px;
-    border: solid 2px rgba(0, 0, 0, 0.5);
-    border-radius: 4px;
+.form-section input, textarea {
+	width: 50%;
+	min-width: 300px;
+	margin: 10px;
+	border: solid 2px rgba(0, 0, 0, 0.5);
+	border-radius: 4px;
 }
 
-
-.form-section .send-button{
-    width: 200px;
+.form-section .send-button {
+	width: 200px;
 }
 /*------------------------------------------------------------ Review*/
 
-.qoute{
-    margin: 0 10px;
-    background-color: rgba(0, 0, 0, 0.25);
-    border-radius: 4px;
+.qoute {
+	margin: 0 10px;
+	background-color: rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
 }
 
 /*------------------------------------------------------------ Footer*/
-footer{
-    margin-top: 10px;
-    padding-top: 10px;
+footer {
+	margin-top: 10px;
+	padding-top: 10px;
 }
 
-footer ul{
-    padding: 0;
+footer ul {
+	padding: 0;
 }
 
-footer .fa-facebook-official{
-    font-size: 72px;
+footer .fa-facebook-official {
+	font-size: 72px;
 }
 
-.legal{
-    padding-bottom: 12px;
+.legal {
+	padding-bottom: 12px;
 }
