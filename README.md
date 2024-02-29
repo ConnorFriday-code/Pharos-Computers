@@ -362,7 +362,7 @@ No errors when passing through the official W3C validator for any of the three p
 
 No errors when passing through the official W3 jigsaw validator. The warnings are only from bootstrap/fontawesome.
 
-[CSS]()
+[CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fconnorfriday-code.github.io%2FPharos-Computers%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 <h3>Git</h3>
 
