@@ -266,6 +266,8 @@ Services carousel:
 
 -Have each carousel caption have a link/button that opens up its corresponding info in the services extended section
 
+-Have each carousel image be a different image related to the topic it is talking about
+
 <h2>Technology used</h2>
 
 <h3>Languages used</h3>
