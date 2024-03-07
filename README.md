@@ -53,11 +53,11 @@ The website needs to be as accessible as possible to those with disabilities.
 
 <h4>Phone wireframes</h4>
 
-![Phone index wireframe](readme-images/wireframes/Phone-index.png)
+![Phone index wireframe](readme-images/wireframes/phone-index.png)
 
-![Phone services wireframe](readme-images/wireframes/Phone-service.png)
+![Phone services wireframe](readme-images/wireframes/phone-service.png)
 
-![Phone contact wireframe](readme-images/wireframes/Phone-contact.png)
+![Phone contact wireframe](readme-images/wireframes/phone-contact.png)
 
 <h4>Tablet wireframes</h4>
 
@@ -69,11 +69,11 @@ The website needs to be as accessible as possible to those with disabilities.
 
 <h4>Computer wireframe</h4>
 
-![Computer index wireframe](readme-images/wireframes/Computer-index.png)
+![Computer index wireframe](readme-images/wireframes/computer-index.png)
 
-![Computer services wireframe](readme-images/wireframes/Computer-service.png)
+![Computer services wireframe](readme-images/wireframes/computer-service.png)
 
-![Computer contact wireframe](readme-images/wireframes/Computer-contact.png)
+![Computer contact wireframe](readme-images/wireframes/computer-contact.png)
 
 <h4>Navigation</h4>
 
@@ -133,9 +133,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Stands out from the page content 
 
-![Nav bar mobile](readme-images/end-result-images/NavBar-sm.PNG)
+![Nav bar mobile](readme-images/end-result-images/navbar-sm.PNG)
 
-![Nav bar computer](readme-images/end-result-images/NavBar-lg.PNG)
+![Nav bar computer](readme-images/end-result-images/navbar-lg.PNG)
 
 <h4>Footer</h4>
 
@@ -147,9 +147,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Clearly states legal rights
 
-![Footer mobile](readme-images/end-result-images/Footer-sm.PNG)
+![Footer mobile](readme-images/end-result-images/footer-sm.PNG)
 
-![Footer computer](readme-images/end-result-images/Footer-lg.PNG)
+![Footer computer](readme-images/end-result-images/footer-lg.PNG)
 
 <h4>Index hero</h4>
 
@@ -159,9 +159,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -The background image of the store sign already plants an image of the store in the user's mind, as well as listing services the store provides
 
-![Hero mobile](readme-images/end-result-images/Hero-sm.PNG)
+![Hero mobile](readme-images/end-result-images/hero-sm.PNG)
 
-![Hero computer](readme-images/end-result-images/Hero-lg.PNG)
+![Hero computer](readme-images/end-result-images/hero-lg.PNG)
 
 <h4>Index welcome</h4>
 
@@ -171,9 +171,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Adaptive to different screen sizes
 
-![Welcome mobile](readme-images/end-result-images/Welcome-sm.PNG)
+![Welcome mobile](readme-images/end-result-images/welcome-sm.PNG)
 
-![Welcome computer](readme-images/end-result-images/Welcome-lg.PNG)
+![Welcome computer](readme-images/end-result-images/welcome-lg.PNG)
 
 <h4>Index review</h4>
 
@@ -181,9 +181,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Grey background and message icon make it stand out from the rest of the content and mark it as a quote
 
-![Review mobile](readme-images/end-result-images/Index-review-sm.PNG)
+![Review mobile](readme-images/end-result-images/index-review-sm.PNG)
 
-![Review computer](readme-images/end-result-images/Index-review-lg.PNG)
+![Review computer](readme-images/end-result-images/index-review-lg.PNG)
 
 <h4>Services carousel</h4>
 
@@ -191,9 +191,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Explanations are brief and to the point
 
-![Carousel mobile](readme-images/end-result-images/Carousel-sm.PNG)
+![Carousel mobile](readme-images/end-result-images/carousel-sm.PNG)
 
-![Carousel computer](readme-images/end-result-images/Carousel-lg.PNG)
+![Carousel computer](readme-images/end-result-images/carousel-lg.PNG)
 
 <h4>Services info</h4>
 
@@ -201,9 +201,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Buttons reduce the scrolling it would take to find content
 
-![Services mobile](readme-images/end-result-images/Services-sm.PNG)
+![Services mobile](readme-images/end-result-images/services-sm.PNG)
 
-![Services computer](readme-images/end-result-images/Services-lg.PNG)
+![Services computer](readme-images/end-result-images/services-lg.PNG)
 
 <h4>Services reviews</h4>
 
@@ -211,9 +211,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Reviews adapt to different screen sizes
 
-![Services reviews mobile](readme-images/end-result-images/Services-review-sm.PNG)
+![Services reviews mobile](readme-images/end-result-images/services-review-sm.PNG)
 
-![Services reviews computer](readme-images/end-result-images/Services-review-lg.PNG)
+![Services reviews computer](readme-images/end-result-images/services-review-lg.PNG)
 
 <h4>Contact google map</h4>
 
@@ -223,9 +223,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Keeps the consistency of having a large block as the first element on the page
 
-![Map mobile](readme-images/end-result-images/Map-sm.PNG)
+![Map mobile](readme-images/end-result-images/map-sm.PNG)
 
-![Map computer](readme-images/end-result-images/Map-lg.PNG)
+![Map computer](readme-images/end-result-images/map-lg.PNG)
 
 <h4>Contact shop photo, address, and timetable</h4>
 
@@ -237,9 +237,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Telephone is in bold to draw the user's attention to it and break up the dullness of the address section
 
-![Address mobile](readme-images/end-result-images/Address-sm.PNG)
+![Address mobile](readme-images/end-result-images/address-sm.PNG)
 
-![Address computer](readme-images/end-result-images/Address-lg.PNG)
+![Address computer](readme-images/end-result-images/address-lg.PNG)
 
 <h4>Contact form</h4>
 
@@ -247,9 +247,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Name, email, and message are working required checks
 
-![Form mobile](readme-images/end-result-images/Form-sm.PNG)
+![Form mobile](readme-images/end-result-images/form-sm.PNG)
 
-![Form computer](readme-images/end-result-images/Form-lg.PNG)
+![Form computer](readme-images/end-result-images/form-lg.PNG)
 
 <h3>Future development/Future features</h3>
 
@@ -313,37 +313,37 @@ On the planned wireframe I had the navigation on large screens to be three links
 
 Old lg nav (right side) on normal full-width screen:
 
-![Nav lg old fullscreen](readme-images/Phaross%20computers%20lg%20nav%20problem%201.PNG)
+![Nav lg old fullscreen](readme-images/phaross-computers-lg-nav-problem-1.PNG)
 
 Old lg nav (right side) on a screen with a smaller than standard width:
 
-![Nav lg old smaller width](readme-images/Phaross%20computers%20lg%20nav%20problem%202.PNG)
+![Nav lg old smaller width](readme-images/phaross-computers-lg-nav-problem-2.PNG)
 
 I, therefore, decided to keep accessibility across different screen sizes to layer the three navigation links vertically instead of horizontally.
 
 New lg nav (right side) on normal full-width screen:
 
-![Nav lg new fullscreen](readme-images/Phaross%20computers%20lg%20nav%20problem%204.PNG)
+![Nav lg new fullscreen](readme-images/phaross-computers-lg-nav-problem-4.PNG)
 
 New lg nav (right side) on a screen with a smaller than standard width:
 
-![Nav lg new smaller width](readme-images/Phaross%20computers%20lg%20nav%20problem%203.PNG)
+![Nav lg new smaller width](readme-images/phaross-computers-lg-nav-problem-3.PNG)
 
 <h4>Logo on small screens</h4>
 
 On the planned wireframe for small devices, I had planned for the: logo, header/title, and nav bar to all fit in the navigation bar. I was hesitant due to the size of the logo if it would end up being squished, however, and was hoping to see if reducing the size of the navigation menu would allow it to fit. The dropdown menu was not enough though and the logo does end up being squished and/or offscreen on small screens.
 
-![Nav lg with no logo squish](readme-images/Phaross%20computers%20logo%20problem%20lg.PNG)
+![Nav lg with no logo squish](readme-images/phaross-computers-logo-problem-lg.PNG)
 
-![Nav sm with logo squish](readme-images/Phaross%20computers%20logo%20problem%20sm.PNG)
+![Nav sm with logo squish](readme-images/phaross-computers-logo-problem-sm.PNG)
 
 This also raised another problem. With the logo and website header/title in front of me, I could see the redundancy of the business name appearing in both the logo and the header.
 
 This led to me deciding to remove the title/header on mobile to remove redundancy and create room for the logo.
 
-![Nav lg with h1 title](readme-images/Phaross%20computers%20logo%20problem%20lg%202.PNG)
+![Nav lg with h1 title](readme-images/phaross-computers-logo-problem-lg-2.PNG)
 
-![Nav sm with h1 removed](readme-images/Phaross%20computers%20logo%20problem%20sm%202.PNG)
+![Nav sm with h1 removed](readme-images/phaross-computers-logo-problem-sm-2.PNG)
 
 <h2>Deployment</h2>
 
