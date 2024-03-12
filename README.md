@@ -269,7 +269,7 @@ Services carousel:
 
 -Have each carousel image be a different image related to the topic it is talking about
 
-<h2>Technology used</h2>
+<h2 align="center">Technology used</h2>
 
 <h3>Languages used</h3>
 
@@ -303,7 +303,7 @@ CSS3
 
 -Used to store the project's code
 
-<h2>Testing</h2>
+<h2 align="center">Testing</h2>
 
 <h3>During development/bug fixing</h3>
 
@@ -345,7 +345,7 @@ This led to me deciding to remove the title/header on mobile to remove redundanc
 
 ![Nav sm with h1 removed](readme-images/phaross-computers-logo-problem-sm-2.PNG)
 
-<h2>Deployment</h2>
+<h2 align="center">Deployment</h2>
 
 <h3>Validator testing</h3>
 
@@ -364,6 +364,24 @@ No errors when passing through the official W3 jigsaw validator. The warnings ar
 
 [CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fconnorfriday-code.github.io%2FPharos-Computers%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+<h3>Lighthouse testing</h3>
+
+<H4>Index page</H4>
+
+![Lighthouse index](readme-images/index-lighthouse.PNG)
+
+<H4>Services page</H4>
+
+![Lighthouse services](readme-images/services-lighthouse.PNG)
+
+<H4>Contact page</H4>
+
+![Lighthouse contact](readme-images/contact-lighthouse.PNG)
+
+<h4>Performance</h4>
+
+The largest reason why performance in all three lighthouse pages is low is due to images being excessively large and increasing load times. It is noted in the bugs/future development to resize the images to decrease load time.
+
 <h3>Git</h3>
 
 The site was deployed to GitHub pages through the steps as follows:
@@ -376,7 +394,7 @@ The site was deployed to GitHub pages through the steps as follows:
 
 The live link can be found here: [Live project](https://connorfriday-code.github.io/Pharos-Computers/)
 
-<h2>Credits</h2>
+<h2 align="center">Credits</h2>
 
 <h3>Code</h3>
 
