@@ -382,6 +382,39 @@ No errors when passing through the official W3 jigsaw validator. The warnings ar
 
 The largest reason why performance in all three lighthouse pages is low is due to images being excessively large and increasing load times. It is noted in the bugs/future development to resize the images to decrease load time.
 
+<h3>User stories</h3>
+
+Confirming I have met the target goal experiences I have set out first time and returning users.
+
+<h4>User first time goals:</h4>
+
+a. To quickly learn the purpose/service of the website/shop
+
+- Website title/header mentions computers
+
+- Hero image on index/landing page lists computer services
+
+- Index/landing page brief welcome explains the purpose of the shop
+
+b. To have the services clearly and simply explained, and that the owner of the shop values my time.
+
+c. To be assured that services provided are both good quality and good value
+
+d. To be quickly directed to contact details if they're sold on the service
+
+<h4>Returning user goals:</h4>
+
+a. For contact details to be quickly presented to me
+
+b. For other services to be quickly readable if I need them
+
+<h4>Frequent user goals:</h4>
+
+a. For quick loading times
+
+b. Contact information to be available to me swiftly
+
+
 <h3>Git</h3>
 
 The site was deployed to GitHub pages through the steps as follows:
