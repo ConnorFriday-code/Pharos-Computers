@@ -396,24 +396,59 @@ a. To quickly learn the purpose/service of the website/shop
 
 - Index/landing page brief welcome explains the purpose of the shop
 
+![Welcome message on index page](readme-images/phaross-welcome.PNG)
+
 b. To have the services clearly and simply explained, and that the owner of the shop values my time.
+
+- Welcome message on index page quickly explains services
+ 
+- Links and the pages are clear in explaining what they're about so as to not waste the user's time
+
+- Service page has all offers listed, with each offer being broken down into compartments with buttons and being no more than a paragraph long
+
+![Image of services menu with virus section active](readme-images/phaross-virus.PNG)
 
 c. To be assured that services provided are both good quality and good value
 
+- Google map and images of the shop prove the shop is both real and a legitimate business
+
+- Reviews provide assurance to good quality
+
+![Welcome review](readme-images/phaross-welcome-review.PNG)
+
 d. To be quickly directed to contact details if they're sold on the service
+
+- The contact page is easy to find in navigation
+
+- Index page's hero image has a phone number in the middle
 
 <h4>Returning user goals:</h4>
 
 a. For contact details to be quickly presented to me
 
+- Index page's hero image contains the shop’s phone number
+
+- Contact page easy to navigate to
+
 b. For other services to be quickly readable if I need them
+
+- Services listed all on one page
+
+- Services are split up with buttons for quicker and easier navigation
 
 <h4>Frequent user goals:</h4>
 
 a. For quick loading times
 
+- Pages load at an acceptable speed
+
 b. Contact information to be available to me swiftly
 
+The index page's hero image contains a phone number
+
+- The contact page is easy to navigate to
+
+- various forms of contact are available
 
 <h3>Git</h3>
 
