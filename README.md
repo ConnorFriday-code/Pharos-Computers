@@ -422,6 +422,8 @@ d. To be quickly directed to contact details if they're sold on the service
 
 - Index page's hero image has a phone number in the middle
 
+![Phaross' phone number](readme-images/phaross-phone-number.PNG)
+
 <h4>Returning user goals:</h4>
 
 a. For contact details to be quickly presented to me
@@ -430,11 +432,15 @@ a. For contact details to be quickly presented to me
 
 - Contact page easy to navigate to
 
+![Navigation menu](readme-images/phaross-nav-menu.PNG)
+
 b. For other services to be quickly readable if I need them
 
 - Services listed all on one page
 
 - Services are split up with buttons for quicker and easier navigation
+
+![Image of services menu with virus section active](readme-images/phaross-virus.PNG)
 
 <h4>Frequent user goals:</h4>
 
@@ -444,11 +450,13 @@ a. For quick loading times
 
 b. Contact information to be available to me swiftly
 
-The index page's hero image contains a phone number
+- The index page's hero image contains a phone number
 
 - The contact page is easy to navigate to
 
 - various forms of contact are available
+
+![Form on contact page](readme-images/phaross-form.PNG)
 
 <h3>Git</h3>
 
