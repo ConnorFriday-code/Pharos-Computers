@@ -133,9 +133,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Stands out from the page content 
 
-![Nav bar mobile](readme-images/end-result-images/navbar-sm.PNG)
+![Nav bar mobile](readme-images/end-result-images/navbar-sm.png)
 
-![Nav bar computer](readme-images/end-result-images/navbar-lg.PNG)
+![Nav bar computer](readme-images/end-result-images/navbar-lg.png)
 
 <h4>Footer</h4>
 
@@ -147,9 +147,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Clearly states legal rights
 
-![Footer mobile](readme-images/end-result-images/footer-sm.PNG)
+![Footer mobile](readme-images/end-result-images/footer-sm.png)
 
-![Footer computer](readme-images/end-result-images/footer-lg.PNG)
+![Footer computer](readme-images/end-result-images/footer-lg.png)
 
 <h4>Index hero</h4>
 
@@ -159,9 +159,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -The background image of the store sign already plants an image of the store in the user's mind, as well as listing services the store provides
 
-![Hero mobile](readme-images/end-result-images/hero-sm.PNG)
+![Hero mobile](readme-images/end-result-images/hero-sm.png)
 
-![Hero computer](readme-images/end-result-images/hero-lg.PNG)
+![Hero computer](readme-images/end-result-images/hero-lg.png)
 
 <h4>Index welcome</h4>
 
@@ -171,9 +171,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Adaptive to different screen sizes
 
-![Welcome mobile](readme-images/end-result-images/welcome-sm.PNG)
+![Welcome mobile](readme-images/end-result-images/welcome-sm.png)
 
-![Welcome computer](readme-images/end-result-images/welcome-lg.PNG)
+![Welcome computer](readme-images/end-result-images/welcome-lg.png)
 
 <h4>Index review</h4>
 
@@ -181,9 +181,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Grey background and message icon make it stand out from the rest of the content and mark it as a quote
 
-![Review mobile](readme-images/end-result-images/index-review-sm.PNG)
+![Review mobile](readme-images/end-result-images/index-review-sm.png)
 
-![Review computer](readme-images/end-result-images/index-review-lg.PNG)
+![Review computer](readme-images/end-result-images/index-review-lg.png)
 
 <h4>Services carousel</h4>
 
@@ -191,9 +191,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Explanations are brief and to the point
 
-![Carousel mobile](readme-images/end-result-images/carousel-sm.PNG)
+![Carousel mobile](readme-images/end-result-images/carousel-sm.png)
 
-![Carousel computer](readme-images/end-result-images/carousel-lg.PNG)
+![Carousel computer](readme-images/end-result-images/carousel-lg.png)
 
 <h4>Services info</h4>
 
@@ -201,9 +201,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Buttons reduce the scrolling it would take to find content
 
-![Services mobile](readme-images/end-result-images/services-sm.PNG)
+![Services mobile](readme-images/end-result-images/services-sm.png)
 
-![Services computer](readme-images/end-result-images/services-lg.PNG)
+![Services computer](readme-images/end-result-images/services-lg.png)
 
 <h4>Services reviews</h4>
 
@@ -211,9 +211,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Reviews adapt to different screen sizes
 
-![Services reviews mobile](readme-images/end-result-images/services-review-sm.PNG)
+![Services reviews mobile](readme-images/end-result-images/services-review-sm.png)
 
-![Services reviews computer](readme-images/end-result-images/services-review-lg.PNG)
+![Services reviews computer](readme-images/end-result-images/services-review-lg.png)
 
 <h4>Contact google map</h4>
 
@@ -223,9 +223,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Keeps the consistency of having a large block as the first element on the page
 
-![Map mobile](readme-images/end-result-images/map-sm.PNG)
+![Map mobile](readme-images/end-result-images/map-sm.png)
 
-![Map computer](readme-images/end-result-images/map-lg.PNG)
+![Map computer](readme-images/end-result-images/map-lg.png)
 
 <h4>Contact shop photo, address, and timetable</h4>
 
@@ -237,9 +237,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Telephone is in bold to draw the user's attention to it and break up the dullness of the address section
 
-![Address mobile](readme-images/end-result-images/address-sm.PNG)
+![Address mobile](readme-images/end-result-images/address-sm.png)
 
-![Address computer](readme-images/end-result-images/address-lg.PNG)
+![Address computer](readme-images/end-result-images/address-lg.png)
 
 <h4>Contact form</h4>
 
@@ -247,9 +247,9 @@ Most people using the website will not be tech literate, and seeing how they're 
 
 -Name, email, and message are working required checks
 
-![Form mobile](readme-images/end-result-images/form-sm.PNG)
+![Form mobile](readme-images/end-result-images/form-sm.png)
 
-![Form computer](readme-images/end-result-images/form-lg.PNG)
+![Form computer](readme-images/end-result-images/form-lg.png)
 
 <h3>Future development/Future features</h3>
 
@@ -313,37 +313,37 @@ On the planned wireframe I had the navigation on large screens to be three links
 
 Old lg nav (right side) on normal full-width screen:
 
-![Nav lg old fullscreen](readme-images/phaross-computers-lg-nav-problem-1.PNG)
+![Nav lg old fullscreen](readme-images/phaross-computers-lg-nav-problem-1.png)
 
 Old lg nav (right side) on a screen with a smaller than standard width:
 
-![Nav lg old smaller width](readme-images/phaross-computers-lg-nav-problem-2.PNG)
+![Nav lg old smaller width](readme-images/phaross-computers-lg-nav-problem-2.png)
 
 I, therefore, decided to keep accessibility across different screen sizes to layer the three navigation links vertically instead of horizontally.
 
 New lg nav (right side) on normal full-width screen:
 
-![Nav lg new fullscreen](readme-images/phaross-computers-lg-nav-problem-4.PNG)
+![Nav lg new fullscreen](readme-images/phaross-computers-lg-nav-problem-4.png)
 
 New lg nav (right side) on a screen with a smaller than standard width:
 
-![Nav lg new smaller width](readme-images/phaross-computers-lg-nav-problem-3.PNG)
+![Nav lg new smaller width](readme-images/phaross-computers-lg-nav-problem-3.png)
 
 <h4>Logo on small screens</h4>
 
 On the planned wireframe for small devices, I had planned for the: logo, header/title, and nav bar to all fit in the navigation bar. I was hesitant due to the size of the logo if it would end up being squished, however, and was hoping to see if reducing the size of the navigation menu would allow it to fit. The dropdown menu was not enough though and the logo does end up being squished and/or offscreen on small screens.
 
-![Nav lg with no logo squish](readme-images/phaross-computers-logo-problem-lg.PNG)
+![Nav lg with no logo squish](readme-images/phaross-computers-logo-problem-lg.png)
 
-![Nav sm with logo squish](readme-images/phaross-computers-logo-problem-sm.PNG)
+![Nav sm with logo squish](readme-images/phaross-computers-logo-problem-sm.png)
 
 This also raised another problem. With the logo and website header/title in front of me, I could see the redundancy of the business name appearing in both the logo and the header.
 
 This led to me deciding to remove the title/header on mobile to remove redundancy and create room for the logo.
 
-![Nav lg with h1 title](readme-images/phaross-computers-logo-problem-lg-2.PNG)
+![Nav lg with h1 title](readme-images/phaross-computers-logo-problem-lg-2.png)
 
-![Nav sm with h1 removed](readme-images/phaross-computers-logo-problem-sm-2.PNG)
+![Nav sm with h1 removed](readme-images/phaross-computers-logo-problem-sm-2.png)
 
 <h2 align="center">Deployment</h2>
 
@@ -368,15 +368,15 @@ No errors when passing through the official W3 jigsaw validator. The warnings ar
 
 <H4>Index page</H4>
 
-![Lighthouse index](readme-images/index-lighthouse.PNG)
+![Lighthouse index](readme-images/index-lighthouse.png)
 
 <H4>Services page</H4>
 
-![Lighthouse services](readme-images/services-lighthouse.PNG)
+![Lighthouse services](readme-images/services-lighthouse.png)
 
 <H4>Contact page</H4>
 
-![Lighthouse contact](readme-images/contact-lighthouse.PNG)
+![Lighthouse contact](readme-images/contact-lighthouse.png)
 
 <h4>Performance</h4>
 
@@ -396,7 +396,7 @@ a. To quickly learn the purpose/service of the website/shop
 
 - Index/landing page brief welcome explains the purpose of the shop
 
-![Welcome message on index page](readme-images/phaross-welcome.PNG)
+![Welcome message on index page](readme-images/phaross-welcome.png)
 
 b. To have the services clearly and simply explained, and that the owner of the shop values my time.
 
@@ -406,7 +406,7 @@ b. To have the services clearly and simply explained, and that the owner of the 
 
 - Service page has all offers listed, with each offer being broken down into compartments with buttons and being no more than a paragraph long
 
-![Image of services menu with virus section active](readme-images/phaross-virus.PNG)
+![Image of services menu with virus section active](readme-images/phaross-virus.png)
 
 c. To be assured that services provided are both good quality and good value
 
@@ -414,7 +414,7 @@ c. To be assured that services provided are both good quality and good value
 
 - Reviews provide assurance to good quality
 
-![Welcome review](readme-images/phaross-welcome-review.PNG)
+![Welcome review](readme-images/phaross-welcome-review.png)
 
 d. To be quickly directed to contact details if they're sold on the service
 
@@ -422,7 +422,7 @@ d. To be quickly directed to contact details if they're sold on the service
 
 - Index page's hero image has a phone number in the middle
 
-![Phaross' phone number](readme-images/phaross-phone-number.PNG)
+![Phaross' phone number](readme-images/phaross-phone-number.png)
 
 <h4>Returning user goals:</h4>
 
@@ -432,7 +432,7 @@ a. For contact details to be quickly presented to me
 
 - Contact page easy to navigate to
 
-![Navigation menu](readme-images/phaross-nav-menu.PNG)
+![Navigation menu](readme-images/phaross-nav-menu.png)
 
 b. For other services to be quickly readable if I need them
 
@@ -440,7 +440,7 @@ b. For other services to be quickly readable if I need them
 
 - Services are split up with buttons for quicker and easier navigation
 
-![Image of services menu with virus section active](readme-images/phaross-virus.PNG)
+![Image of services menu with virus section active](readme-images/phaross-virus.png)
 
 <h4>Frequent user goals:</h4>
 
@@ -456,7 +456,7 @@ b. Contact information to be available to me swiftly
 
 - various forms of contact are available
 
-![Form on contact page](readme-images/phaross-form.PNG)
+![Form on contact page](readme-images/phaross-form.png)
 
 <h3>Git</h3>
 
