@@ -6,7 +6,7 @@ Pharos Computers is a website based on a real shop in my local town, intending t
 
 The owner of the shop has permitted me to make a website based on his shop.
 
-![Shop owner giving approval](readme-images/Approval.jpg)
+![Shop owner giving approval](readme-images/approval.jpg)
 
 <h2 align="center">User Experience/UX</h2>
 
@@ -109,7 +109,7 @@ Finally, the form is there for those who wish to email the store, in case they w
 
 <h3>Colour</h3>
 
-![Logo of store](readme-images/Pahros-Computers-Logo.jpg)
+![Logo of store](readme-images/pahros-computers-logo.jpg)
 
 Using the logo of the shop (posted above), the main colours shall be white, dark blue, and bright yellow.
 
